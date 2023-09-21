@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/Financial Big Data/Financial-Big-Data/bin/python3" "$0" "$@"
-' '''
+#!/Users/macos/Financial-Big-Data/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
